@@ -1,4 +1,4 @@
-# bpmn-js Modeler Example
+ bpmn-js Modeler Example
 
 This example uses [bpmn-js](https://github.com/bpmn-io/bpmn-js) to implement a modeler for BPMN 2.0 process diagrams. It serves as the basis of the bpmn-js demo application available at [demo.bpmn.io](http://demo.bpmn.io).
 
